@@ -30,7 +30,7 @@
 
 ![images (23)](https://github.com/0nE01/OCR/assets/127254729/d778336b-97ba-4904-a74f-5e921406eef2)
 
-#### As you can see we got pretty good results. 😎
+### As you can see we got pretty good results. 😎
 
 ## Spread the word
 ### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
