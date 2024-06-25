@@ -1,4 +1,4 @@
-# OCR 🎇🆗
+# OCR 🎇
 
 
 
@@ -9,17 +9,17 @@
 
 
 
-#### OCR, or Optical Character Recognition, is a technology that converts different types of documents, such as scanned paper documents or images taken by a digital camera, into editable and searchable data. It identifies and extracts text characters from images, making it possible to edit and search the text. OCR is widely used for digitizing printed texts so they can be electronically stored, edited, and searched.
+### OCR, or Optical Character Recognition, is a technology that converts different types of documents, such as scanned paper documents or images taken by a digital camera, into editable and searchable data. It identifies and extracts text characters from images, making it possible to edit and search the text. OCR is widely used for digitizing printed texts so they can be electronically stored, edited, and searched.🔥😎
 
-# What we're going to do?
+# What we're going to do? 😀
 
-So basicly we are going to use a liberery called easyocr to detecte text in to different languege 
-* English
-* Persian
-* 
-After detecting the text we'll extract texts from image and make them editable
-And also we can draw bounding boxes for texts in our image.
-You can find github repo for easyocr with link below:
+#### So basically this is a small project that we are going to use a library named easyocr to detect text in two different languages. ✨
+* English 💪
+* Persian ⚡
+
+#### After detecting the text we'll extract texts from image and make them editable And draw bounding boxes for texts in our image. 🟩
+
+####  You can find github repo for easyocr with link below:
 
 |[Easyocr](https://github.com/JaidedAI/EasyOCR?tab=readme-ov-file)|
 |------|
@@ -30,5 +30,7 @@ You can find github repo for easyocr with link below:
 
 ![images (23)](https://github.com/0nE01/OCR/assets/127254729/d778336b-97ba-4904-a74f-5e921406eef2)
 
+#### As you can see we got pretty good results. 😎
 
-
+## Spread the word
+### If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
